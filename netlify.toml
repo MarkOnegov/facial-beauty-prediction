@@ -1,0 +1,7 @@
+[build]
+  publish = "bundled"
+  command = "shower bundle"
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
