@@ -11,6 +11,7 @@
     "@shower/cli": "^0.3.1"
   },
   "dependencies": {
-    "@shower/shower": "^3.3.0"
+    "@shower/shower": "^3.3.0",
+    "qrcode": "^1.5.1"
   }
 }

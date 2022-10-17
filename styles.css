@@ -1,0 +1,30 @@
+.shower {
+  --slide-ratio: calc(16 / 9);
+}
+.title {
+  margin-right: 40px;
+  line-height: 1.25em !important;
+}
+.anatation p {
+  line-height: 1em;
+  font-size: 0.8em;
+  margin-bottom: 0.5em;
+}
+dt,
+dd {
+  display: inline;
+}
+dl {
+  margin-block: 0;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-inline-start: 0;
+}
+.code {
+  position: absolute;
+  bottom: 0;
+  right: var(--slide-side);
+}
